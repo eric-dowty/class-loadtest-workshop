@@ -15,7 +15,6 @@ gem 'capybara'
 gem 'poltergeist'
 
 group :development, :test do
-  
   gem 'spring'
   gem 'rspec-rails'
   gem 'guard'
